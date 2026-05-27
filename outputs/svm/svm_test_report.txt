@@ -1,0 +1,12 @@
+Best parameters: {'svm__C': 1, 'svm__gamma': 1, 'svm__kernel': 'rbf'}
+Best CV macro F1: 0.9907
+Test macro F1: 0.9904
+
+               precision    recall  f1-score   support
+
+entertainment       1.00      0.98      0.99        61
+         tech       0.98      1.00      0.99        45
+
+     accuracy                           0.99       106
+    macro avg       0.99      0.99      0.99       106
+ weighted avg       0.99      0.99      0.99       106
